@@ -1,0 +1,40 @@
+com/logica/Validaciones/Validaciones.java
+ com.logica.Validaciones.Validaciones
+com/logica/Producto/ListaProductos.java
+ com.logica.Producto.ListaProductos
+com/interfaz/GalleryActivity.java
+ com.interfaz.GalleryActivity
+com/interfaz/MenuPublicacion.java
+ com.interfaz.MenuPublicacion
+ com.interfaz.MenuPublicacion$1
+ com.interfaz.MenuPublicacion$2
+com/example/recyclerview/BuildConfig.java
+ com.example.recyclerview.BuildConfig
+com/logica/filtros/FiltroImagenVisible.java
+ com.logica.filtros.FiltroImagenVisible
+com/logica/filtros/FiltroPrecioVisible.java
+ com.logica.filtros.FiltroPrecioVisible
+com/logica/Producto/Producto.java
+ com.logica.Producto.Producto
+com/logica/filtros/Filtro.java
+ com.logica.filtros.Filtro
+com/logica/filtros/FiltroPrecio.java
+ com.logica.filtros.FiltroPrecio
+com/archivos/creacionJson.java
+ com.archivos.creacionJson
+com/interfaz/ProductosRecViewAdapter.java
+ com.interfaz.ProductosRecViewAdapter
+ com.interfaz.ProductosRecViewAdapter$ViewHolder
+ com.interfaz.ProductosRecViewAdapter$ViewHolder$OnNoteListener
+com/interfaz/CreationActivity.java
+ com.interfaz.CreationActivity
+com/interfaz/MainActivity.java
+ com.interfaz.MainActivity
+ com.interfaz.MainActivity$1
+ com.interfaz.MainActivity$2
+ com.interfaz.MainActivity$3
+ com.interfaz.MainActivity$4
+ com.interfaz.MainActivity$5
+ com.interfaz.MainActivity$6
+ com.interfaz.MainActivity$7
+ com.interfaz.MainActivity$8

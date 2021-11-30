@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/menu_menu.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-xhdpi_addicon.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-xhdpi/addicon.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_filter.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-xxhdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/layout_contacts_list_item.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/contacts_list_item.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_filter.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-anydpi/ic_filter.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/layout_activity_gallery.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_filter.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-hdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-mdpi_addicon.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-mdpi/addicon.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-mdpi_checkbox.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-mdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/layout_action_layout_styled_checkbox.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/action_layout_styled_checkbox.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/layout_activity_menu_publicacion.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_menu_publicacion.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-xxhdpi_checkbox.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-xxhdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-hdpi_addicon.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-hdpi/addicon.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_filter.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-xhdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-hdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-xhdpi_checkbox.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-xhdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-anydpi_addicon.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-anydpi/addicon.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-xxhdpi_addicon.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-xxhdpi/addicon.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/layout_activity_creation.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_creation.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-anydpi_checkbox.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-anydpi/checkbox.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/menu_menu_popup.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/menu/menu_popup.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_filter.png.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable-mdpi/ic_filter.png"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/jorge_l8/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]
